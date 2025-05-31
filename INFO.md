@@ -1,4 +1,4 @@
-## CEL OPIS PROJEKTU
+nano INFO.md## CEL OPIS PROJEKTU
 
 ## Lista autorów
 -Pluta Mariusz
